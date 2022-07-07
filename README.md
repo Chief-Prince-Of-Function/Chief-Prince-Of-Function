@@ -3,10 +3,6 @@
 # Good day, 👋 Michael Fusco here!
 
 <p align="center">
-<img src="https://www.stocklib.com/media-146829413/flowing-stream-with-trees-and-large-boulder-in-eastern-kentucky.html?keyword=trout%20stream" height="400px" width="1000px">
-</p>
-
-<p align="center">
 Husband, Father, Veteran and grateful man.
 Experienced and passionate for mission execution and the lives positively impacted as a result.
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
