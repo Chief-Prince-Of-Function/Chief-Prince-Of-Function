@@ -2,7 +2,6 @@
 
 # Good day, 👋 Michael Fusco here!
 
-<p align="center">
 Husband, Father, Veteran and grateful man.
 Experienced and passionate for mission execution and the lives positively impacted as a result.
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
