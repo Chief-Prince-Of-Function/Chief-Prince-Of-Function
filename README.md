@@ -7,7 +7,6 @@ Experienced and passionate for mission execution and the lives positively impact
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
 </p>
 
-<p align="center">
 - 🌱 I’m currently learning: New Application Deployment Framework
 
 - 🔭 I’m currently working on: Building out my Collective Development Environment
