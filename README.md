@@ -7,11 +7,11 @@ Experienced and passionate for mission execution and the lives positively impact
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
 </p>
 
-- 🌱 I’m currently learning: New Application Deployment Framework
+- 🌱 I’m currently learning: Azure, SQL, Javascript
 
-- 🔭 I’m currently working on: Building out my Collective Development Environment
+- 🔭 I’m currently working on: Applications for a Veteran run Non Profit organization and another within the golf industry
 
-- 🤝 I’m looking to collaborate on: Python based projects
+- 🤝 My goals are to: Finish two full stack applications and Azur certifications by EOY 2022
  
 - 📫 Contact me: <a href="https://twitter.com/Fuscaha">@Fuscaha</a>
 
