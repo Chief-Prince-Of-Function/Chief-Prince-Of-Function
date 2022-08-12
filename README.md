@@ -45,7 +45,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 ## 👨‍ Interests
 
 - Deep Learning
-- Problem Solving
+- History
 - Cryptocurrency
 - Philanthropy
 - Fly Fishing
