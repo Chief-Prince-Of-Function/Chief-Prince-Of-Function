@@ -13,7 +13,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 - 🔭 I’m currently working on: Applications for a Veteran run Non Profit organization and another within the golf industry
 
-- 🤝 My goals are to: Finish two full stack applications and Azur certifications by EOY 2022
+- 🤝 My goals are to: Finish two full stack applications and Azure certifications by EOY 2022
  
 - 📫 Contact me: <a href="https://twitter.com/Fuscaha">@Fuscaha</a>
 
