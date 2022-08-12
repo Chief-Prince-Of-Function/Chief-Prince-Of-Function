@@ -1,5 +1,3 @@
-## Readme Script 
-
 # Good day, 👋 Michael Fusco here!
 
 Husband, Father, Veteran and grateful man.
