@@ -3,6 +3,8 @@
 # Good day, 👋 Michael Fusco here!
 
 Husband, Father, Veteran and grateful man.
+<br>
+
 Experienced and passionate for mission execution and the lives positively impacted as a result.
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
 </p>
@@ -42,25 +44,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-<p align="center">
-![Michael Fusco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chief-Prince-Of-Function&show_icons=true)
-</p>
-
-<p align="center">
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Chief-Prince-Of-Function&layout=compact)
-</p>
-
-<p align="center">
-### Latest Medium Articles
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@michael.r.fusco/2" alt="Recent Article 2"></a>
-</p>
-
-<p align="center">
-👨‍💻
-### Interests
+## 👨‍ Interests
 
 - Deep Learning
 - Problem Solving
