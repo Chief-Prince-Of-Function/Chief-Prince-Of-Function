@@ -50,5 +50,11 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 - Philanthropy
 - Fly Fishing
 - Golf
+
+<br>
+<br>
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/blob/master/devcard.svg" width="400" alt="Chief-Prince-Of-Function's Dev Card"/></a>
+
 </p>
 
