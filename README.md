@@ -52,9 +52,6 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 - Golf
 
 <br>
-<br>
-
-<a href="https://app.daily.dev/byh"><img src="https://api.daily.dev/devcards/0b4c6f619b5647cabfb82406857ed938.png?r=nn9" width="400" alt="bless yer heart's Dev Card"/></a>
 
 </p>
 
