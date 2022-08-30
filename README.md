@@ -7,7 +7,7 @@ Experienced and passionate for mission execution and the lives positively impact
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
 </p>
 
-- 🌱 I’m currently learning: Azure, SQL, Javascript
+- 🌱 I’m currently learning: Project Mangement
 
 - 🔭 I’m currently working on: Applications for a Veteran run Non Profit organization and another within the golf industry
 
