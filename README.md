@@ -13,7 +13,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 - 🤝 My goals are to: Finish two full stack applications and Azure certifications by EOY 2022
  
-- 📫 Contact me: <a href="https://twitter.com/Fuscaha">@Fuscaha</a>
+- 📫 Contact me: chief.prince.of.function@gmail.com
 
 ## Connect with me
 
