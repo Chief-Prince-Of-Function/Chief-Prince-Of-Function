@@ -1,0 +1,20 @@
+#Image Background Remover#
+
+1. Download latest Python package:
+ - https://www.python.org/downloads/
+
+2. Install pip:
+ - https://pypi.org/project/pip/
+ - ```pip install pip``` #Command Line Interface command
+
+3. Install rembg:
+ - https://github.com/danielgatis/rembg
+ - ```pip install rembg``` #Command Line Interface command
+
+4. Run the following script in your CLI:
+
+```rembg i C:\Users\file_path\image_name_existing.png C:\Users\file_path\image_name_new.png```
+
+#For reference: do not add to script above#
+
+"insert_the_copied_file_path_of_image" #For your reference
