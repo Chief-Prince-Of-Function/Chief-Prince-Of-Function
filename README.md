@@ -51,11 +51,10 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 <img align="left" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-
 <br>
 <br>
 
-##Payments
+## Payments
 
 <img align="left" alt="apple_pay" src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white" />
 
@@ -64,7 +63,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-##Games
+## Games
 
 <img align="left" alt="Riot_Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
 
