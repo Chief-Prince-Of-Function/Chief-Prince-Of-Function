@@ -39,6 +39,9 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 <img align="center" alt="Microsoft_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
+<img align="center" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+
+
 <br>
 <br>
 
