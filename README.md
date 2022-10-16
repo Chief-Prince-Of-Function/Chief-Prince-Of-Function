@@ -72,7 +72,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 ## Portfolio items
 
-<img align="left" alt="Riot_Games" src="/Users/michael/Documents/bosun_shirts/bosun_mates/_collection" />
+<img align="left" alt="2.png" src="/Users/michael/Documents/bosun_shirts/bosun_mates/_collection/2.png" />
 
 <br>
 <br>
