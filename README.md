@@ -70,9 +70,11 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
+## Portfolio
+
 <img align="left" alt="0002" src="https://user-images.githubusercontent.com/79958366/196017006-6c6a9854-a37b-4174-a2ce-908dd2f9c2c8.png" />
 
-<img align="left" alt="0002" src="https://user-images.githubusercontent.com/79958366/196017018-3a85f396-02de-4531-9eb3-36cd59f85a27.png" />
+<img align="left" alt="0001" src="https://user-images.githubusercontent.com/79958366/196017018-3a85f396-02de-4531-9eb3-36cd59f85a27.png" />
 
 <br>
 <br>
