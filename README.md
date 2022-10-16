@@ -51,6 +51,9 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 <img align="left" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
+<img align="left" alt="Dart" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+
+
 <br>
 <br>
 
