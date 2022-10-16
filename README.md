@@ -78,6 +78,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 <br>
 <br>
+<br>
 
 ## 👨‍ Interests
 
