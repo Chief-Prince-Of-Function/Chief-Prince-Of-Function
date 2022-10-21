@@ -11,7 +11,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 - 🔭 I’m currently working on: Discord integrations, NFT builds, Apparel startup @bosunshirts
 
-- 🤝 My goals are to: Finish two full stack applications and Azure certifications by EOY 2022
+- 🤝 My goals are to: finish my degree path at Syracuse University while building my full stack developer credentials
  
 - 📫 Contact me: chief.prince.of.function@gmail.com
 
