@@ -1,6 +1,6 @@
 # Good day, 👋 Michael Fusco here!
 
-Husband, Father, Veteran and grateful man.
+Husband, Father, Veteran and Grateful Man.
 <br>
 
 Experienced and passionate for mission execution and the lives positively impacted as a result.
