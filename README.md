@@ -49,6 +49,19 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
+## Blog posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<br>
+<br>
+
 ## Games
 
 <img align="left" alt="Riot_Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
