@@ -49,15 +49,9 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-## Blog posts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+## 📖 Latest Blog posts
+<!-- GITHUB_POSTS:START -->
+<!-- GITHUB_POSTS:END -->
 
 <br>
 <br>
