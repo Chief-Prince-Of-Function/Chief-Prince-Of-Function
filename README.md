@@ -49,9 +49,9 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-## 📙 Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <br>
 <br>
