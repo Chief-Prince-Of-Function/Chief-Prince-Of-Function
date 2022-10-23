@@ -50,8 +50,8 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 
 ## My Blog
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:END -->
 
 <br>
 <br>
