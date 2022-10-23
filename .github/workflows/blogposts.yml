@@ -16,7 +16,7 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: https://chief-prince-of-function.github.io/
-          count: 6 # default 5
+          max_posts_per_url: 6 # default 5
       - name: Commit file changes
         run: |
             git config --global user.name 'Chief-Prince-Of-Function'
