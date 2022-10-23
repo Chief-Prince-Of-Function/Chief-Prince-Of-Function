@@ -15,7 +15,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_url: https://chief-prince-of-function.github.io/
+          feed_urls: https://chief-prince-of-function.github.io/
           count: 6 # default 5
       - name: Commit file changes
         run: |
