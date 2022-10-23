@@ -17,7 +17,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: https://chief-prince-of-function.github.io
+          feed_urls: https://Chief-Prince-Of-Function.github.io/chief-prince-of-function.github.io
           output_dir: blog-posts
           locale: en-US
           time_zone: America/Boston
