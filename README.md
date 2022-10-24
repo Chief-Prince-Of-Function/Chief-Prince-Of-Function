@@ -54,7 +54,6 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 https://chief-prince-of-function.github.io
 
 <br>
-<br>
 
 ## Games
 
