@@ -51,12 +51,11 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 <!-- blog-post-list:start -->
 ## Chief\-Prince\-Of\-Function Blog
-### https://chief-prince-of-function.github.io
 
 
 
 [Read more](/)
-> Last updated: Monday, October 31, 2022 at 2:14:19 PM
+> Last updated: Monday, October 31, 2022 at 2:15:46 PM
 
 > Showing 5 of 10 posts.
 
