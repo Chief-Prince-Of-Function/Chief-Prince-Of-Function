@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">one&#0032;day&#0032;at&#0032;a&#0032;time</div>
+          <div class="description">one&#0032;day&#0032;at&#0032;a&#0032;time&#0010;&#0010;Song&#0058;&#0032;AA&#0044;&#0032;Walker&#0032;Hayes&#0010;&#0010;I&#0032;skipped&#0032;a&#0032;few&#0032;days…&#0032;It&#0032;happens&#0032;from&#0032;time&#0032;to&#0032;time&#0046;&#0032;Truth&#0032;be&#0032;told&#0032;however&#0044;&#0032;my&#0032;original&#0032;goal&#0032;was&#0032;to&#0032;do&#0032;7&#0032;days&#0032;in&#0032;a&#0032;row&#0046;&#0032;Id&#0032;like&#0032;to&#0032;call&#0032;myself&#0032;a&#0032;doer&#0032;but&#0032;sometimes&#0032;I&#0032;find&#0032;a&#0032;way&#0032;to&#0032;procrastinate&#0044;&#0032;delay&#0044;&#0032;or&#0032;just&#0032;plain&#0032;skip&#0032;it&#0046;&#0032;But&#0032;with&#0032;this&#0032;blog&#0032;it&#0032;isn’t&#0032;about&#0032;anything&#0032;other&#0032;than&#0032;writing&#0032;when&#0032;I&#0032;want&#0032;and&#0032;not&#0032;writing&#0032;when&#0032;I&#0032;don’t&#0032;want&#0046;&#0032;Grammar&#0032;aside&#0044;&#0032;pressure&#0032;or&#0032;discomfort&#0032;are&#0032;not&#0032;part&#0032;of&#0032;why&#0032;I&#0032;write&#0046;&#0010;&#0010;Today&#0032;I&#0032;am&#0032;back&#0032;and&#0032;feeling&#0032;inspired&#0046;&#0032;The&#0032;past&#0032;few&#0032;days&#0032;have&#0032;been&#0032;chaotic&#0032;a&#0032;bit&#0032;&#0040;positive&#0041;&#0032;and&#0032;have&#0032;left&#0032;me&#0032;little&#0032;time&#0032;to&#0032;personally&#0032;digest&#0032;life&#0032;in&#0032;the&#0032;way&#0032;that&#0032;leaves&#0032;me&#0032;ready&#0032;to&#0032;write&#0032;it&#0032;down&#0046;&#0032;Sometimes&#0032;it&#0032;can&#0032;take&#0032;me&#0032;a&#0032;day&#0032;or&#0032;two&#0032;to&#0032;process&#0032;my&#0032;life&#0032;in&#0032;its&#0032;totality&#0032;and&#0032;kind&#0032;of&#0032;“update&#0032;my&#0032;status”&#0032;if&#0032;you&#0032;will&#0046;&#0032;When&#0032;I&#0032;do&#0032;complete&#0032;my&#0032;brain&#0032;rewiring&#0032;I&#0032;can&#0032;actually&#0032;find&#0032;the&#0032;articulation&#0032;within&#0032;me&#0032;to&#0032;jot&#0032;down&#0032;or&#0032;post&#0032;about&#0032;my&#0032;thoughts&#0046;&#0032;It&#0032;is&#0032;very&#0032;important&#0032;to&#0032;my&#0032;life&#0032;to&#0032;take&#0032;things&#0032;one&#0032;day&#0032;at&#0032;a&#0032;time&#0046;&#0010;&#0010;As&#0032;the&#0032;title&#0032;suggests&#0044;&#0032;I&#0032;do&#0032;suffer&#0032;from&#0032;alcoholism&#0032;in&#0032;me&#0046;&#0032;After&#0032;4&#0046;5&#0032;years&#0032;sober&#0032;now&#0032;I&#0032;also&#0032;find&#0032;myself&#0032;safe&#0032;to&#0032;assume&#0032;that&#0032;I&#0032;won’t&#0032;be&#0032;back&#0032;at&#0032;it&#0032;again&#0046;&#0032;Much&#0032;like&#0032;other&#0032;problems&#0032;in&#0032;life&#0032;though&#0044;&#0032;it&#0032;can&#0032;be&#0032;insidious&#0032;and&#0032;you&#0032;must&#0032;be&#0032;aware&#0032;of&#0032;it&#0032;every&#0032;day…&#0032;if&#0032;needed&#0046;&#0032;The&#0032;title&#0032;does&#0032;suggest&#0032;many&#0032;many&#0032;other&#0032;articulations&#0032;as&#0032;well&#0044;&#0032;ill&#0032;leave&#0032;those&#0032;interpretations&#0032;up&#0032;to&#0032;the&#0032;reader&#0046;&#0010;&#0010;This&#0032;week&#0032;at&#0032;Syracuse&#0032;I&#0032;completed&#0032;my&#0032;lengthy&#0032;but&#0032;fun&#0032;classwork&#0032;with&#0032;a&#0032;day&#0032;to&#0032;spare&#0046;&#0032;Hence&#0032;my&#0032;writing&#0032;now&#0032;instead&#0032;of&#0032;homework&#0046;&#0032;Learning&#0032;Javascript&#0044;&#0032;HTML&#0044;&#0032;server&#0032;architectures&#0044;&#0032;database&#0032;design&#0032;and&#0032;framework&#0044;&#0032;all&#0032;leave&#0032;me&#0032;so&#0032;excited&#0032;for&#0032;the&#0032;future&#0032;ahead&#0032;of&#0032;me&#0032;in&#0032;this&#0032;CP&#0032;endeavor&#0046;&#0032;That&#0032;is&#0032;a&#0032;nice&#0032;improvement&#0032;from&#0032;4th&#0032;grade&#0032;spelling&#0032;class&#0044;&#0032;where&#0032;I&#0032;was&#0032;not&#0032;allowed&#0032;at&#0032;recess&#0032;due&#0032;to&#0032;my&#0032;homework&#0032;needing&#0032;to&#0032;be&#0032;done&#0032;at&#0032;some&#0032;point&#0046;&#0032;Taking&#0032;thinks&#0032;one&#0032;day&#0032;at&#0032;a&#0032;time&#0032;has&#0032;lead&#0032;me&#0032;to&#0032;this&#0032;new&#0032;path&#0032;or&#0032;brain&#0032;rewire&#0032;where&#0032;my&#0032;excitement&#0032;for&#0032;the&#0032;lesson&#0032;and&#0032;gained&#0032;knowledge&#0032;vastly&#0032;outweighs&#0032;the&#0032;burdens&#0032;of&#0032;struggling&#0032;with&#0032;the&#0032;work&#0046;&#0032;This&#0032;excitement&#0032;can&#0032;be&#0032;applied&#0032;across&#0032;the&#0032;vast&#0032;universe&#0032;time&#0032;and&#0032;time&#0032;over&#0046;&#0032;But&#0032;that&#0032;would&#0032;be&#0032;redundant&#0032;now&#0032;wouldn’t&#0032;it…&#0032;&#0040;Quantum&#0032;fans&#0032;agree&#0041;&#0010;&#0010;Lets&#0032;remember&#0032;that&#0032;not&#0032;every&#0032;word&#0032;in&#0032;every&#0032;blog&#0032;post&#0032;is&#0032;about&#0032;you&#0046;&#0032;Some&#0032;may&#0032;be&#0032;intended&#0032;for&#0032;a&#0032;future&#0032;or&#0032;wide&#0032;audience&#0046;&#0032;Just&#0032;as&#0032;life&#0044;&#0032;lets&#0032;take&#0032;things&#0032;one&#0032;day&#0032;at&#0032;a&#0032;time&#0044;&#0032;and&#0032;be&#0032;patient&#0032;with&#0032;ourselves&#0032;as&#0032;well&#0032;as&#0032;others&#0032;as&#0032;we&#0032;all&#0032;work&#0032;to&#0032;find&#0032;our&#0032;happiness&#0046;&#0032;Take&#0032;time&#0032;to&#0032;consider&#0032;your&#0032;thoughts&#0032;today&#0046;&#0032;Take&#0032;a&#0032;minute&#0032;to&#0032;gather&#0032;your&#0032;thoughts&#0032;into&#0032;what&#0032;actually&#0032;makes&#0032;sense&#0032;and&#0032;is&#0032;right&#0046;&#0032;Discernment&#0032;is&#0032;key&#0044;&#0032;but&#0032;I&#0032;am&#0032;willing&#0032;to&#0032;bet&#0032;that&#0032;you&#0032;all&#0032;already&#0032;have&#0032;it…&#0010;&#0010;Chief&#0045;Prince&#0045;Of&#0045;Function</div>
+          <div class="date">10&#0047;30&#0047;22</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
