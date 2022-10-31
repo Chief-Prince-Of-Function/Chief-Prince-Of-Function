@@ -55,7 +55,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 
 [Read more](/)
-> Last updated: Monday, October 31, 2022 at 2:15:46 PM
+> Last updated: Monday, October 31, 2022 at 2:22:55 PM
 
 > Showing 5 of 10 posts.
 
@@ -63,7 +63,7 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 [![one day at a time](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/one_day_at_a_time.svg)](/2022/10/30/one-day-at-a-time.html)
 [![pushing on](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/pushing_on.svg)](/2022/10/27/pushing-on.html)
 [![positive trauma](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/positive_trauma.svg)](/2022/10/26/positive-trauma.html)
-[![all-the-above](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/all-the-above.svg)](/2022/10/25/all-the-above.html)
+[![all the above](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/all_the_above.svg)](/2022/10/25/all-the-above.html)
 
 
 <!-- blog-post-list:end -->
