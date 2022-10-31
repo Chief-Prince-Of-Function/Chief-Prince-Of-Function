@@ -49,11 +49,9 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-## My Blog
-
-### https://chief-prince-of-function.github.io
 <!-- blog-post-list:start -->
 ## Chief\-Prince\-Of\-Function Blog
+### https://chief-prince-of-function.github.io
 
 
 
