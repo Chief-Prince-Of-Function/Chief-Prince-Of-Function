@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">saddened</div>
+          <div class="description">saddened&#0010;&#0010;&#0010;&#0010;Song&#0058;&#0032;let&#0032;her&#0032;go&#0044;&#0032;passenger&#0010;&#0010;Today&#0032;I&#0032;was&#0032;saddened&#0046;&#0032;I&#0032;sold&#0032;my&#0032;beloved&#0032;2016&#0032;Jeep&#0032;Wrangler&#0032;Unlimited&#0032;Black&#0032;Bear&#0032;edition&#0046;&#0032;I&#0032;bid&#0032;her&#0032;farewell&#0032;and&#0032;adoo&#0032;to&#0032;another&#0032;fellow&#0032;that&#0032;was&#0032;a&#0032;real&#0032;pleasure&#0032;to&#0032;meet&#0046;&#0032;I&#0032;have&#0032;had&#0032;this&#0032;Jeep&#0032;listed&#0032;for&#0032;sale&#0032;for&#0032;over&#0032;a&#0032;months&#0032;time&#0032;and&#0032;have&#0032;had&#0032;the&#0032;various&#0032;versions&#0032;of&#0032;random&#0032;people&#0032;interactions&#0032;through&#0032;the&#0032;process&#0044;&#0032;as&#0032;one&#0032;could&#0032;expect&#0046;&#0032;I&#0032;decreased&#0032;my&#0032;price&#0032;a&#0032;bit&#0044;&#0032;then&#0032;a&#0032;bit&#0032;more&#0032;over&#0032;a&#0032;few&#0032;weeks&#0032;time&#0046;&#0032;Today&#0032;I&#0032;sold&#0032;it&#0032;well&#0032;below&#0032;even&#0032;that&#0032;number&#0046;&#0032;Cash&#0032;in&#0032;hand&#0032;wins&#0032;at&#0032;the&#0032;end&#0032;of&#0032;the&#0032;day&#0032;and&#0032;I&#0032;could&#0032;certaintly&#0032;use&#0032;it&#0046;&#0032;This&#0032;young&#0032;man&#0032;was&#0032;incredibly&#0032;grateful&#0032;and&#0032;his&#0032;young&#0032;hard&#0032;ball&#0032;tactics&#0032;coupled&#0032;with&#0032;his&#0032;love&#0032;for&#0032;my&#0032;veteran&#0032;stories&#0032;made&#0032;him&#0032;very&#0032;pleasing&#0032;to&#0032;interact&#0032;with&#0046;&#0032;It&#0032;made&#0032;my&#0032;decision&#0032;simple&#0046;&#0032;this&#0032;Jeep&#0032;has&#0032;been&#0032;all&#0032;over&#0032;the&#0032;East&#0032;Coast&#0032;with&#0032;me&#0032;from&#0032;taking&#0032;hundreds&#0032;of&#0032;Veterans&#0032;fishing&#0044;&#0032;me&#0032;fishing&#0044;&#0032;golfing&#0044;&#0032;daycare&#0032;trips&#0044;&#0032;high&#0032;school&#0032;trips&#0044;&#0032;first&#0032;family&#0032;camping&#0032;trip&#0044;&#0032;a&#0032;trip&#0032;to&#0032;buy&#0032;a&#0032;camper&#0032;and&#0032;back&#0032;empty&#0032;handed&#0044;&#0032;and&#0032;even&#0032;the&#0032;kids&#0032;first&#0032;time&#0032;with&#0032;the&#0032;roof&#0032;off…&#0032;Ole&#0032;Jeep&#0032;is&#0032;about&#0032;that&#0032;adventure&#0032;life&#0032;and&#0032;is&#0032;ready&#0032;for&#0032;its&#0032;next&#0032;one&#0046;&#0010;&#0010;She&#0032;was&#0032;built&#0032;for&#0032;adventure&#0032;and&#0032;she&#0032;will&#0032;enjoy&#0032;what&#0032;this&#0032;young&#0032;man&#0032;has&#0032;planned&#0032;for&#0032;her&#0046;&#0032;If&#0032;only&#0032;she&#0032;could&#0032;hear&#0032;the&#0032;excitement&#0032;and&#0032;stoic&#0032;boist&#0032;of&#0032;this&#0032;guys&#0032;voice&#0032;over&#0032;his&#0032;new&#0032;toy&#0032;to&#0032;cherish&#0032;and&#0032;take&#0032;him&#0032;to&#0032;and&#0032;from&#0032;his&#0032;self&#0032;employed&#0032;painters&#0032;gig&#0046;&#0032;If&#0032;she&#0032;could&#0032;hear&#0032;it…&#0032;and&#0032;you&#0032;let&#0032;her&#0032;go&#0010;&#0010;she&#0032;would&#0032;have&#0032;innevitably&#0032;be&#0032;remissed&#0032;of&#0032;the&#0032;surprise&#0046;&#0032;Much&#0032;like&#0032;my&#0032;day&#0032;started&#0032;with&#0032;my&#0032;dream&#0032;car&#0032;in&#0032;my&#0032;driveway&#0032;and&#0032;ended&#0032;with&#0032;the&#0032;excitement&#0032;of&#0032;what&#0032;is&#0032;to&#0032;come&#0046;&#0032;She&#0032;will&#0032;have&#0032;to&#0032;wait&#0032;to&#0032;see&#0032;what&#0032;is&#0032;in&#0032;store&#0032;for&#0032;her&#0046;&#0032;My&#0032;memories&#0032;of&#0032;my&#0032;children&#0032;helping&#0032;me&#0032;remove&#0032;those&#0032;doors&#0032;and&#0032;beyond&#0032;still&#0032;remain&#0032;in&#0032;my&#0032;mind&#0032;and&#0032;heart&#0046;&#0032;I&#0032;cannot&#0032;hold&#0032;value&#0032;on&#0032;false&#0032;idol&#0046;&#0032;I&#0032;must&#0032;focus&#0032;on&#0032;the&#0032;truth&#0032;and&#0032;secure&#0032;my&#0032;financial&#0032;future&#0046;&#0010;&#0010;Perserverance&#0032;is&#0032;important&#0046;&#0032;Jeep&#0032;lives&#0032;on&#0032;and&#0032;so&#0032;do&#0032;I&#0046;&#0032;My&#0032;kids&#0032;wont&#0032;ever&#0032;forget&#0032;those&#0032;moments&#0032;either&#0032;and&#0032;we&#0032;will&#0032;also&#0032;make&#0032;many&#0032;many&#0032;more&#0046;&#0032;Perserverance&#0032;is&#0032;such&#0032;where&#0032;I&#0032;now&#0032;am&#0032;excited&#0032;for&#0032;a&#0032;new&#0032;whip&#0046;&#0032;Im&#0032;going&#0032;the&#0032;beater&#0032;route&#0032;while&#0032;finance&#0032;builds&#0044;&#0032;but&#0032;this&#0032;vehicle&#0032;may&#0032;end&#0032;up&#0032;in&#0032;my&#0032;daughters&#0032;hands&#0032;next&#0032;year&#0032;when&#0032;she&#0032;hops&#0032;behind&#0032;the&#0032;wheel&#0032;for&#0032;the&#0032;first&#0032;time&#0044;&#0032;and&#0032;after&#0032;I&#0032;have&#0032;carefully&#0032;built&#0032;her&#0032;‘ol&#0032;reliable…&#0010;&#0010;Dont&#0032;be&#0032;sad&#0032;about&#0032;the&#0032;past&#0046;&#0032;Be&#0032;grateful&#0032;that&#0032;you&#0032;had&#0032;the&#0032;chance&#0032;to&#0032;love&#0032;something&#0032;like&#0032;that&#0046;&#0032;Thank&#0032;you&#0032;all&#0032;for&#0032;listening&#0046;&#0010;&#0010;Chief&#0045;Prince&#0045;Of&#0045;Function</div>
+          <div class="date">11&#0047;4&#0047;22</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

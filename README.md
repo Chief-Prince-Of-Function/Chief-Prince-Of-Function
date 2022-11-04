@@ -55,11 +55,11 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 
 
 [Read more](/)
-> Last updated: Friday, November 4, 2022 at 9:00:47 PM
+> Last updated: Friday, November 4, 2022 at 10:00:41 PM
 
 > Showing 5 of 10 posts.
 
-[![Saddened](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/Saddened.svg)](/2022/11/04/saddened.html)
+[![saddened](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/saddened.svg)](/2022/11/04/saddened.html)
 [![inspired](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/inspired.svg)](/2022/11/03/inspired.html)
 [![fear](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/fear.svg)](/2022/10/31/fear.html)
 [![one day at a time](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/one_day_at_a_time.svg)](/2022/10/30/one-day-at-a-time.html)
