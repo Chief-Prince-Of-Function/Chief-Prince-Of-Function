@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">expectations</div>
+          <div class="description">expectations&#0010;&#0010;Today&#0032;I&#0032;took&#0032;a&#0032;break&#0046;&#0032;While&#0032;my&#0032;children&#0032;were&#0032;cleaning&#0032;the&#0032;bathroom&#0032;that&#0032;they&#0032;and&#0032;their&#0032;friends&#0032;destroyed&#0032;during&#0032;this&#0032;weekend’s&#0032;festivities…&#0032;I&#0032;took&#0032;a&#0032;break&#0032;and&#0032;went&#0032;to&#0032;shower&#0032;myself&#0046;&#0032;En&#0032;route&#0032;to&#0032;my&#0032;shower&#0032;I&#0032;had&#0032;to&#0032;re&#0045;explain&#0032;how&#0032;to&#0032;utilize&#0032;the&#0032;drain&#0032;hair&#0032;removal&#0032;wand&#0046;&#0032;My&#0032;daughter&#0032;was&#0032;afraid&#0032;to&#0032;get&#0032;her&#0032;hand&#0032;dirty&#0032;in&#0032;the&#0032;mess&#0046;&#0032;Quick&#0032;fix&#0032;with&#0032;dad’s&#0032;little&#0032;advice&#0032;to&#0032;“get&#0032;it&#0032;done”&#0044;&#0032;lol&#0046;&#0032;When&#0032;I&#0032;was&#0032;in&#0032;my&#0032;bedroom&#0032;preparing&#0032;for&#0032;the&#0032;shower&#0032;I&#0032;was&#0032;praying&#0032;as&#0032;I&#0032;do&#0032;when&#0032;cleansing&#0032;myself&#0046;&#0032;In&#0032;prayer&#0032;I&#0032;found&#0032;myself&#0032;considering&#0032;my&#0032;expectations&#0032;of&#0032;God&#0046;&#0032;I&#0032;thought&#0032;about&#0032;times&#0032;where&#0032;I&#0032;expected&#0032;a&#0032;breakthrough&#0032;in&#0032;an&#0032;upcoming&#0032;or&#0032;present&#0032;moment&#0046;&#0010;&#0010;Almost&#0032;as&#0032;if&#0032;these&#0032;moments&#0032;were&#0032;like&#0032;opening&#0032;a&#0032;door&#0046;&#0032;I&#0032;bought&#0032;a&#0032;new&#0032;car&#0044;&#0032;I&#0032;hope&#0032;for&#0032;new&#0032;happiness&#0046;&#0032;I&#0032;find&#0032;a&#0032;&#0036;10&#0032;bill&#0032;in&#0032;the&#0032;laundry&#0044;&#0032;I&#0032;hope&#0032;for&#0032;new&#0032;financial&#0032;prowess…&#0032;you&#0032;get&#0032;the&#0032;parable&#0032;but&#0032;when&#0032;I&#0032;was&#0032;considering&#0032;God&#0032;in&#0032;mind&#0044;&#0032;I&#0032;found&#0032;myself&#0032;hoping&#0032;for&#0032;wisdom&#0032;from&#0032;God&#0032;in&#0032;moments&#0032;of&#0032;strife&#0032;in&#0032;my&#0032;life&#0046;&#0032;I&#0032;have&#0032;become&#0032;self&#0032;trusting&#0032;in&#0032;discernment&#0032;from&#0032;organic&#0032;thought&#0032;to&#0032;organic&#0032;&#0032;thought&#0032;with&#0032;God’s&#0032;given&#0032;desires&#0032;in&#0032;mind…&#0032;Insanely&#0032;difficult&#0032;topics&#0032;to&#0032;describe&#0032;aside&#0044;&#0032;I&#0032;find&#0032;the&#0032;consideration&#0032;of&#0032;my&#0032;expectations&#0032;for&#0032;God&#0044;&#0032;self&#0044;&#0032;nature&#0044;&#0032;and&#0032;others&#0032;at&#0032;times&#0032;to&#0032;cloud&#0032;my&#0032;ability&#0032;to&#0032;just&#0032;live&#0032;in&#0032;peace&#0032;and&#0032;comfort&#0046;&#0032;It&#0032;took&#0032;me&#0032;a&#0032;minute&#0032;to&#0032;understand&#0032;while&#0032;in&#0032;my&#0032;shower&#0032;preparation&#0032;prayer&#0032;but&#0032;they&#0032;say&#0032;writing&#0032;helps&#0046;&#0032;Here&#0032;I&#0032;am&#0032;learning&#0032;that&#0032;I&#0032;do&#0032;not&#0032;have&#0032;to&#0032;have&#0032;the&#0032;answers&#0032;to&#0032;every&#0032;question&#0032;or&#0032;situation&#0046;&#0010;&#0010;Some&#0032;expectations&#0032;can&#0032;be&#0032;set&#0032;and&#0032;sustained&#0032;when&#0032;incorporated&#0032;into&#0032;self&#0046;&#0032;I&#0032;now&#0032;expect&#0032;myself&#0032;to&#0032;handle&#0032;situations&#0032;and&#0032;circumstances&#0032;as&#0032;they&#0032;come&#0032;with&#0032;TRUST&#0032;in&#0032;my&#0032;process&#0032;as&#0032;well&#0032;as&#0032;TRUST&#0032;in&#0032;myself&#0032;to&#0032;do&#0032;so&#0032;with&#0032;good&#0032;purpose&#0032;in&#0032;mind&#0046;&#0032;I&#0032;expect&#0032;God&#0044;&#0032;nature&#0044;&#0032;and&#0032;others&#0032;to&#0032;respect&#0032;me&#0032;just&#0032;as&#0032;I&#0032;respect&#0032;them&#0032;in&#0032;common&#0032;interaction&#0046;&#0032;I&#0032;do&#0032;not&#0032;require&#0032;or&#0032;expect&#0032;a&#0032;pre&#0045;primed&#0032;solution&#0032;that&#0032;will&#0032;inevitably&#0032;fail&#0046;&#0032;Just&#0032;as&#0032;it&#0032;has&#0032;failed&#0032;me&#0032;so&#0032;many&#0032;times&#0032;in&#0032;the&#0032;past&#0046;&#0010;&#0010;I&#0032;hope&#0032;my&#0032;own&#0032;vulnerabilities&#0032;can&#0032;serve&#0032;others&#0032;for&#0032;good&#0032;in&#0032;their&#0032;life&#0046;&#0032;I&#0032;pray&#0032;that&#0032;others&#0032;can&#0032;benefit&#0032;from&#0032;my&#0032;life&#0032;just&#0032;as&#0032;every&#0032;reader&#0032;has&#0032;benefited&#0032;mine&#0046;&#0032;Thank&#0032;you&#0046;&#0010;&#0010;Chief&#0045;Prince&#0045;Of&#0045;Function</div>
+          <div class="date">11&#0047;20&#0047;22</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
