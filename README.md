@@ -49,27 +49,6 @@ The pursuit of higher knowledge must be done so with ethics at the forefront, fo
 <br>
 <br>
 
-<!-- blog-post-list:start -->
-## Chief\-Prince\-Of\-Function Blog
-
-
-
-[Read more](/)
-> Last updated: Friday, January 6, 2023 at 1:28:10 AM
-
-> Showing 5 of 10 posts.
-
-[![expectations](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/expectations.svg)](/2022/11/20/expectations.html)
-[![pride](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/pride.svg)](/2022/11/14/pride.html)
-[![ambition](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/ambition.svg)](/2022/11/10/ambition.html)
-[![scars heal](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/scars_heal.svg)](/2022/11/08/scars-heal.html)
-[![saddened](https://raw.githubusercontent.com/Chief-Prince-Of-Function/Chief-Prince-Of-Function/main/blog-post-list-output/Chief-Prince-Of-Function_Blog/saddened.svg)](/2022/11/04/saddened.html)
-
-
-<!-- blog-post-list:end -->
-
-<br>
-
 ## Games
 
 <img align="left" alt="Riot_Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
