@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">deep&#0032;perception</div>
+          <div class="description">deep&#0032;perception&#0010;&#0010;Song&#0058;&#0032;Broken&#0032;Halos&#0044;&#0032;Chris&#0032;Stapleton&#0010;&#0010;Been&#0032;a&#0032;while&#0046;&#0032;Lets&#0032;break&#0032;some&#0032;ice&#0032;with&#0032;some&#0032;deep&#0032;thought&#0046;&#0032;I&#0032;have&#0032;spent&#0032;a&#0032;great&#0032;deal&#0032;of&#0032;time&#0032;between&#0032;November&#0032;of&#0032;2022&#0032;and&#0032;now&#0032;in&#0032;February&#0032;of&#0032;2023&#0032;considering&#0032;current&#0032;events&#0032;and&#0032;historical&#0032;context&#0032;for&#0032;the&#0032;same&#0046;&#0032;Thinking&#0032;through&#0032;the&#0032;complexities&#0032;of&#0032;the&#0032;universe&#0032;and&#0032;the&#0032;lessons&#0032;learned&#0032;during&#0032;research&#0032;is&#0032;a&#0032;great&#0032;passion&#0032;of&#0032;mine&#0046;&#0032;I&#0032;have&#0032;put&#0032;great&#0032;stake&#0032;in&#0032;the&#0032;afterlife&#0032;and&#0032;the&#0032;personal&#0032;acceptance&#0032;of&#0032;the&#0032;greater&#0032;power&#0032;above&#0046;&#0032;I&#0032;have&#0032;found&#0032;that&#0032;of&#0032;the&#0032;most&#0032;important&#0032;parts&#0032;of&#0032;existence&#0032;here&#0032;is&#0032;to&#0032;prepare&#0032;for&#0032;what&#0032;is&#0032;next&#0046;&#0032;With&#0032;current&#0032;affairs&#0032;mimicing&#0032;“religious&#0032;tribalism”&#0032;I&#0032;find&#0032;myself&#0032;considering&#0032;5&#0032;points&#0032;that&#0032;I&#0032;consider&#0032;factual&#0046;&#0010;&#0010;Individuality&#0032;supercedes&#0032;all&#0032;group&#0032;actions&#0046;&#0032;&#0040;if&#0032;it&#0032;doesnt&#0032;work&#0032;for&#0032;every&#0032;individual&#0044;&#0032;it&#0032;is&#0032;not&#0032;good&#0032;enough&#0032;for&#0032;the&#0032;group&#0041;&#0010;Every&#0032;form&#0032;of&#0032;religion&#0032;falls&#0032;short&#0032;of&#0032;OUR&#0032;higher&#0032;power’s&#0032;significance&#0046;&#0032;&#0040;if&#0032;you&#0032;mentally&#0032;damn&#0032;others&#0044;&#0032;you&#0032;have&#0032;fallen&#0032;short&#0041;&#0010;Hell&#0032;can&#0032;be&#0032;temporary&#0046;&#0032;&#0040;at&#0032;that&#0032;end&#0044;&#0032;we&#0032;all&#0032;should&#0032;aspire&#0032;to&#0032;shorten&#0032;our&#0032;time&#0032;necessary&#0041;&#0010;Purposeful&#0032;perception&#0032;will&#0032;train&#0032;your&#0032;brain&#0032;over&#0032;time&#0046;&#0032;&#0040;growth&#0032;mindset&#0044;&#0032;open&#0032;mind&#0044;&#0032;goal&#0032;driven…&#0032;practice&#0032;to&#0032;see&#0032;from&#0032;an&#0032;all&#0032;encompasing&#0032;perception&#0032;for&#0032;a&#0032;greater&#0032;purpose&#0041;&#0010;When&#0032;all&#0032;is&#0032;revealed&#0044;&#0032;will&#0032;you&#0032;be&#0032;ready&#0032;to&#0032;welcome&#0032;your&#0032;current&#0032;enemy&#0032;in&#0032;with&#0032;you&#0063;&#0032;&#0040;if&#0032;not…&#0032;consider&#0032;how&#0032;our&#0032;higher&#0032;power&#0032;may&#0032;resolve&#0032;the&#0032;issue&#0044;&#0032;im&#0032;thinking&#0032;that&#0032;God&#0032;would&#0032;want&#0032;both&#0032;children&#0032;home&#0046;&#0010;&#0010;Be&#0032;kind&#0032;and&#0032;work&#0032;to&#0032;brighten&#0032;days&#0044;&#0032;dont&#0032;become&#0032;a&#0032;black&#0032;cloud&#0032;to&#0032;others&#0046;&#0032;If&#0032;you&#0032;find&#0032;yourself&#0032;there&#0044;&#0032;remember&#0032;that&#0032;we&#0032;ALL&#0032;have&#0032;our&#0032;own&#0032;broken&#0032;halos&#0032;and&#0032;folded&#0032;wings&#0044;&#0032;humble&#0032;nature&#0032;is&#0032;to&#0032;follow&#0046;&#0010;&#0010;Chief&#0045;Prince&#0045;Of&#0045;Function</div>
+          <div class="date">2&#0047;7&#0047;23</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
