@@ -7,11 +7,11 @@ Experienced and passionate for mission execution and the lives positively impact
 The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
 </p>
 
-- 🌱 I’m currently learning: Javascript and Database management
+- 🌱 I’m currently learning: Python development
 
 - 🔭 I’m currently working on: Discord integrations, NFT builds, Apparel startup @bosunshirts
 
-- 🤝 My goals are to: Finish my degree path at Syracuse University while building my full stack developer credentials
+- 🤝 My goals are to: Build a better tomorrow with cryptocurrency at the forefront
  
 - 📫 Contact me: chief.prince.of.function@gmail.com
 
