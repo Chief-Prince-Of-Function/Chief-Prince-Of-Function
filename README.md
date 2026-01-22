@@ -1,78 +1,93 @@
-# Good day, 👋 Michael Fusco here!
+# 👋 Michael Fusco
 
-Husband, Father, Veteran and Grateful Man.
-<br>
+**Husband. Father. Veteran. Grateful man.**  
+Builder of tools, systems, and mission-driven products that turn chaos into clarity.
 
-Experienced and passionate for mission execution and the lives positively impacted as a result.
-The pursuit of higher knowledge must be done so with ethics at the forefront, for the lack thereof inhibits the positive gain to be had -
-</p>
+I’m obsessed with **execution**, **clean UX**, and **real-world usefulness** — whether that’s a field ops dashboard, a nonprofit command center, or an offline-first app built to run anywhere.
 
-- 🌱 I’m currently learning: Python development
+---
 
-- 🔭 I’m currently working on: Discord integrations, NFT builds, Apparel startup @bosunshirts
+## 🚀 What I’m Building
 
-- 🤝 My goals are to: Build a better tomorrow with cryptocurrency at the forefront
- 
-- 📫 Contact me: chief.prince.of.function@gmail.com
+### 🎣 RiverLog (Offline-First PWA)
+A field-ready fishing log app built to work with **zero signal**:
+- Trips, catches, fly inventory, recap exports + collage mode  
+- Local-first storage, fast UI, built for mobile
+- Versioned, iterative, tested, real usage
 
-## Connect with me
+### 🧠 Command Centers & Dashboards
+I build “single pane of glass” systems for life + work:
+- **Merit Command Center** (lead tracking, weekly reporting, pipeline ops)
+- **Fusco Family Hub** + kiosk dashboards
+- Pi-based pages + desktop experiences
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@michael.r.fusco)
+### 🌐 Automation + Data Pipelines
+- Airtable bases → Make.com → structured ops workflows  
+- Form ingestion, routing, record updates, notifications  
+- HubSpot pipelines & properties designed around reality (not theory)
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-fusco-902030b4)
+---
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/19498976/Chief-Prince-Of-Function
-)
+## 🧰 My Toolbox
 
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/michael.fusco.92167/)
+### 💻 Development
+- **HTML / CSS / JavaScript** (modern UI, responsive layouts, clean components)
+- Offline-first patterns (service workers, caching, storage strategies)
+- Export systems (ZIP packages, file generation, image handling)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Fuscaha)
+### 🖥️ Systems & Networking
+- Raspberry Pi (kiosk builds, services, deployments)
+- Nginx, systemd, Linux CLI
+- **Cloudflare Tunnels**, **Tailscale**, reverse proxy workflows
 
-<br>
-<br>
+### 📊 Ops / Automation
+- Airtable (relational base design + views)
+- Make.com scenarios + webhooks
+- HubSpot pipelines, CRM hygiene, and workflows
 
-## Expertise
+---
 
-<img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+## 🏆 Real-World Roles
 
-<img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+**Veterans Go Outdoors (VGO)** — Founder / President  
+Mission-driven nonprofit built around brotherhood, outdoors, and impact.
 
-<br>
-<br>
+**Merit Apprenticeship Alliance** — Regional Field Manager / Resource Dev  
+Building contractor pipelines + apprenticeship workflows across NY/NJ/CT/PA.
 
-## Payments
+---
 
-<img align="left" alt="apple_pay" src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white" />
+## 🔥 Current Focus
+- 🌱 Learning: **Python** (automation + tooling)
+- 🧩 Building: integrations, dashboards, portable systems
+- 🎯 Goal: Ship useful tools that make people’s lives better
 
-<img align="left" alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+---
 
-<br>
-<br>
+## 🧠 Interests
+- Fly Fishing 🎣  
+- Golf ⛳  
+- Theology, Philosophy, and “why systems matter”  
+- Philanthropy + veteran mission support  
+- Building products that actually get used
 
-## Games
+---
 
-<img align="left" alt="Riot_Games" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />
+## 🤝 Connect With Me
 
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fusco-902030b4)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@michael.r.fusco)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fuscaha)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19498976/Chief-Prince-Of-Function)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michael.fusco.92167/)
 
-## Portfolio
+---
 
-<img align="left" alt="0002" src="https://user-images.githubusercontent.com/79958366/201134878-7ae4877a-699d-41c0-9f48-6b003a747412.png" />
+## 📫 Contact
+**chief.prince.of.function@gmail.com**
 
-<br>
-<br>
+---
 
-## 👨‍ Interests
-
-- Deep Learning
-- History
-- Cryptocurrency
-- Philanthropy
-- Fly Fishing
-- Golf
-
-<br>
-
-</p>
-
+### ⚓ Personal Motto
+> The pursuit of higher knowledge must be guided by ethics —  
+> without it, progress loses its purpose.
