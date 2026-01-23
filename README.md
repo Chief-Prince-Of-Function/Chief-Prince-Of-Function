@@ -17,8 +17,8 @@ A field-ready fishing log app built to work with **zero signal**:
 
 ### 🧠 Command Centers & Dashboards
 I build “single pane of glass” systems for life + work:
-- **Merit Command Center** (lead tracking, weekly reporting, pipeline ops)
-- **Fusco Family Hub** + kiosk dashboards
+- **Command Center** (lead tracking, weekly reporting, pipeline ops)
+- **Family Hub** + kiosk dashboards
 - Pi-based pages + desktop experiences
 
 ### 🌐 Automation + Data Pipelines
@@ -52,7 +52,7 @@ I build “single pane of glass” systems for life + work:
 **Veterans Go Outdoors (VGO)** — Founder / President  
 Mission-driven nonprofit built around brotherhood, outdoors, and impact.
 
-**Merit Apprenticeship Alliance** — Regional Field Manager / Resource Dev  
+**Merit Apprenticeship Alliance** — Resource Developer  
 Building contractor pipelines + apprenticeship workflows across NY/NJ/CT/PA.
 
 ---
