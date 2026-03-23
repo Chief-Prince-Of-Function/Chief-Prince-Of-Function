@@ -1,93 +1,108 @@
 # 👋 Michael Fusco
 
-**Husband. Father. Veteran. Grateful man.**  
-Builder of tools, systems, and mission-driven products that turn chaos into clarity.
+**Husband. Father. Veteran. Builder.**  
+I design and ship **practical systems** that bring structure to real-world chaos.
 
-I’m obsessed with **execution**, **clean UX**, and **real-world usefulness** — whether that’s a field ops dashboard, a nonprofit command center, or an offline-first app built to run anywhere.
+Focused on execution, clean interfaces, and tools that people actually use — not just ideas.
 
 ---
 
-## 🚀 What I’m Building
+## ⚡ What I Do
 
-### 🎣 RiverLog (Offline-First PWA)
-A field-ready fishing log app built to work with **zero signal**:
-- Trips, catches, fly inventory, recap exports + collage mode  
-- Local-first storage, fast UI, built for mobile
-- Versioned, iterative, tested, real usage
+I build **field-ready systems** across three lanes:
+
+### 🎣 RiverLog (Offline-First App)
+A fishing log built for real conditions — **no signal required**.
+
+- Trip + catch tracking with photo + GPS support  
+- Fly inventory (“Quiver”) with usage tracking  
+- Collage exports + trip recap system  
+- Fully local-first (IndexedDB + service worker)
+
+> Built, tested, and used on the water — not theoretical.
+
+---
 
 ### 🧠 Command Centers & Dashboards
-I build “single pane of glass” systems for life + work:
-- **Command Center** (lead tracking, weekly reporting, pipeline ops)
-- **Family Hub** + kiosk dashboards
-- Pi-based pages + desktop experiences
+Single-pane-of-glass systems for clarity and control.
 
-### 🌐 Automation + Data Pipelines
-- Airtable bases → Make.com → structured ops workflows  
-- Form ingestion, routing, record updates, notifications  
-- HubSpot pipelines & properties designed around reality (not theory)
+- Lead + deal tracking dashboards  
+- Weekly execution + reporting systems  
+- Family + kiosk hubs  
+- Desktop + Pi-powered environments  
+
+> If it’s messy, I build structure around it.
 
 ---
 
-## 🧰 My Toolbox
+### 🌐 Automation & CRM Systems
+Workflows that match reality — not software assumptions.
 
-### 💻 Development
-- **HTML / CSS / JavaScript** (modern UI, responsive layouts, clean components)
-- Offline-first patterns (service workers, caching, storage strategies)
-- Export systems (ZIP packages, file generation, image handling)
+- HubSpot pipelines designed for actual sales flow  
+- Airtable relational bases + operational views  
+- Make.com automations (routing, notifications, updates)  
+- Data → action pipelines
 
-### 🖥️ Systems & Networking
-- Raspberry Pi (kiosk builds, services, deployments)
+---
+
+## 🧰 Toolbox
+
+**Development**
+- HTML / CSS / JavaScript (clean UI, responsive systems)
+- Offline-first architecture (caching, storage, resilience)
+- File systems (ZIP exports, media handling)
+
+**Systems**
+- Raspberry Pi deployments (kiosks, dashboards)
 - Nginx, systemd, Linux CLI
-- **Cloudflare Tunnels**, **Tailscale**, reverse proxy workflows
+- Cloudflare Tunnels, Tailscale, reverse proxy setups
 
-### 📊 Ops / Automation
-- Airtable (relational base design + views)
-- Make.com scenarios + webhooks
-- HubSpot pipelines, CRM hygiene, and workflows
+**Operations**
+- HubSpot (pipelines, properties, workflows)
+- Airtable (relational design + execution views)
+- Make.com (automation + orchestration)
 
 ---
 
-## 🏆 Real-World Roles
+## 🏆 Real-World Work
 
 **Veterans Go Outdoors (VGO)** — Founder / President  
-Mission-driven nonprofit built around brotherhood, outdoors, and impact.
+Building community and recovery through the outdoors.
 
 **Merit Apprenticeship Alliance** — Resource Developer  
-Building contractor pipelines + apprenticeship workflows across NY/NJ/CT/PA.
+Developing contractor pipelines and workforce systems across NY/NJ/CT/PA.
 
 ---
 
-## 🔥 Current Focus
-- 🌱 Learning: **Python** (automation + tooling)
-- 🧩 Building: integrations, dashboards, portable systems
-- 🎯 Goal: Ship useful tools that make people’s lives better
+## 🎯 Current Focus
+
+- Building **tools that remove friction from real workflows**
+- Expanding into **Python for automation + backend utility**
+- Refining **RiverLog** into a polished, production-grade app
 
 ---
 
 ## 🧠 Interests
-- Fly Fishing 🎣  
-- Golf ⛳  
-- Theology, Philosophy, and “why systems matter”  
-- Philanthropy + veteran mission support  
-- Building products that actually get used
+
+Fly Fishing 🎣 · Golf ⛳ · Systems Thinking · Theology · Philosophy  
+Mission-driven work · Veteran support · Real-world utility
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-fusco-902030b4)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@michael.r.fusco)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fuscaha)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19498976/Chief-Prince-Of-Function)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michael.fusco.92167/)
 
 ---
 
 ## 📫 Contact
+
 **chief.prince.of.function@gmail.com**
 
 ---
 
-### ⚓ Personal Motto
-> The pursuit of higher knowledge must be guided by ethics —  
-> without it, progress loses its purpose.
+## ⚓ Philosophy
+
+> Build things that work in the real world.  
+> Keep them simple. Make them useful.  
+> Let execution speak.
