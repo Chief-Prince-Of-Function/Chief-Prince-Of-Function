@@ -3,7 +3,7 @@
 **Husband. Father. Veteran. Builder.**  
 I design and ship **practical systems** that bring structure to real-world chaos.
 
-Focused on execution, clean interfaces, and tools that people actually use — not just ideas.
+Focused on execution, clean interfaces, and tools that people actually use. Not just ideas.
 
 ---
 
@@ -11,32 +11,32 @@ Focused on execution, clean interfaces, and tools that people actually use — n
 
 I build **field-ready systems** across three lanes:
 
-### 🎣 RiverLog (Offline-First App)
-A fishing log built for real conditions — **no signal required**.
+### 🎣 RiverLog (Offline First App)
+A fishing log built for real conditions **no signal required**.
 
 - Trip + catch tracking with photo + GPS support  
 - Fly inventory (“Quiver”) with usage tracking  
 - Collage exports + trip recap system  
-- Fully local-first (IndexedDB + service worker)
+- Fully local first (IndexedDB + service worker)
 
-> Built, tested, and used on the water — not theoretical.
+> Built, tested, and used on the water, not theoretical.
 
 ---
 
 ### 🧠 Command Centers & Dashboards
-Single-pane-of-glass systems for clarity and control.
+Single pane of glass systems for clarity and control.
 
 - Lead + deal tracking dashboards  
 - Weekly execution + reporting systems  
 - Family + kiosk hubs  
-- Desktop + Pi-powered environments  
+- Desktop + Raspberry Pi powered environments  
 
 > If it’s messy, I build structure around it.
 
 ---
 
 ### 🌐 Automation & CRM Systems
-Workflows that match reality — not software assumptions.
+Workflows that match reality, not software assumptions.
 
 - HubSpot pipelines designed for actual sales flow  
 - Airtable relational bases + operational views  
@@ -49,7 +49,7 @@ Workflows that match reality — not software assumptions.
 
 **Development**
 - HTML / CSS / JavaScript (clean UI, responsive systems)
-- Offline-first architecture (caching, storage, resilience)
+- Offline first architecture (caching, storage, resilience)
 - File systems (ZIP exports, media handling)
 
 **Systems**
@@ -85,7 +85,7 @@ Developing contractor pipelines and workforce systems across NY/NJ/CT/PA.
 ## 🧠 Interests
 
 Fly Fishing 🎣 · Golf ⛳ · Systems Thinking · Theology · Philosophy  
-Mission-driven work · Veteran support · Real-world utility
+Mission driven work · Veteran support · Real world utility
 
 ---
 
