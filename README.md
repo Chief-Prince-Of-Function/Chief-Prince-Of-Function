@@ -1,7 +1,7 @@
 # 👋 Michael Fusco
 
 **Husband. Father. Veteran. Builder.**  
-I design and ship **practical systems** that bring structure to real-world chaos.
+I design and ship **practical systems** that bring structure to real world chaos.
 
 Focused on execution, clean interfaces, and tools that people actually use. Not just ideas.
 
